@@ -1,2 +1,13 @@
-# Api_CRUD_OPRS-
-this file is all to be crud operations using ReactJs,Express ,Node ,MongoDB 
+# Api_CRUD_OPRS ⚙️
+
+This directory contains 
+
+➢ ReactJS (Client) 
+
+--------------+
+➢ Node        | 
+➢ Express     | =====> (Server) 
+➢ MongoDB     |
+______________+
+
+
